@@ -1,0 +1,2 @@
+include haarcascade_frontalface_default.xml
+include file_face_extract/*.json
