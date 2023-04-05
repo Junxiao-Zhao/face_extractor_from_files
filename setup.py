@@ -18,4 +18,4 @@ setup(name='face_extractor',
           "file_face_extract": ["logconfig.json"],
           ".": ["haarcascade_frontalface_default.xml"]
       },
-      python_requires='>=3.6')
+      python_requires='>=3.8')
